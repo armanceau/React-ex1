@@ -1,0 +1,13 @@
+.personnage{
+    border: 2px dotted black;
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: .5em;
+    padding: 5px;
+}
+
+.personnage > img {
+    width: 100%;
+}

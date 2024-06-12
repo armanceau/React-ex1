@@ -21,3 +21,27 @@ export let personnage = [
     }
 
 ]
+
+export let personnageB = [
+    {
+        nom: "1",
+        prenom: "1",
+        image: "./assets/jin-1.png"
+    },
+    {
+        nom: "2",
+        prenom: "2",
+        image: "./assets/jin-2.png"
+    },
+    {
+        nom: "3",
+        prenom: "3",
+        image: "./assets/jin-3.png"
+    },
+    {
+        nom: "4",
+        prenom: "4",
+        image: "./assets/jin-1.png"
+    }
+
+]
